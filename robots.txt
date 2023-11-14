@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page39062742.html
+Disallow: /page39062807.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://svetlanasycheva.com/sitemap.xml
+Host: https://svetlanasycheva.com
